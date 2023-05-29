@@ -1,0 +1,8 @@
+GET http://localhost:5000/products   //sendrequest
+
+GET http://localhost:5000/products/1  //sendreqbyid
+
+
+POST http://localhost:5000/products //post crrate
+Content-Type: aplication/json
+
